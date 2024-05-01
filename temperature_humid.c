@@ -18,7 +18,7 @@ void setup()
         delay(200);
         Serial.print("..");
     }
-    Lab Report - 1 1 Serial.println();
+    Serial.println();
     Serial.println("NodeMCU is connected!");
     Serial.println(WiFi.localIP());
 }
